@@ -27,18 +27,30 @@
 ## MEU PEQUENO PORTFOLIO
 
 * Segue, links dos exercícios resolvidos durante bootcamp:
+-----
 
-<p>
-[Capítulo 02 - Exercício 01]("https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-01.py")
-<br>
-[Capítulo 02 - Exercício 02]("https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-02.py")
-<br>
+[Capítulo 02 - Exercício 01](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-01.py)
+
+[Capítulo 02 - Exercício 02](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-02.py)
+
+[Capítulo 02 - Exercício 03](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-03.py)
+
+[Capítulo 02 - Exercício 04](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-04.py)
+
+[Capítulo 02 - Exercício 05](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-05.py)
+
+[Capítulo 02 - Exercício 06](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-06.py)
+
+-----
+
+[Capítulo 03 - Exercício 01](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-01.py)
+
+[Capítulo 03 - Exercício 02](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-02.py)
+
 
 <br><div align="right">[Subir ao Início](#home)</div><br>
-
-</p>
-
 <br><br>
+
 Brasil, 2022.
 
 Selmar Fidalgo
