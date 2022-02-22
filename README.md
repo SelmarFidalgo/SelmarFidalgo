@@ -27,29 +27,63 @@
 ## MEU PEQUENO PORTFOLIO
 
 * Segue, links dos exercícios resolvidos durante bootcamp:
------
 
-[Capítulo 02 - Exercício 01](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-01.py)
-
-[Capítulo 02 - Exercício 02](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-02.py)
-
-[Capítulo 02 - Exercício 03](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-03.py)
-
-[Capítulo 02 - Exercício 04](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-04.py)
-
-[Capítulo 02 - Exercício 05](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-05.py)
-
-[Capítulo 02 - Exercício 06](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-06.py)
+<br><center><h3>Capítulo 02</h3></center>
 
 -----
 
-[Capítulo 03 - Exercício 01](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-01.py)
+[Exercício 01](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-01.py)
 
-[Capítulo 03 - Exercício 02](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-02.py)
+[Exercício 02](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-02.py)
+
+[Exercício 03](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-03.py)
+
+[Exercício 04](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-04.py)
+
+[Exercício 05](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-05.py)
+
+[Exercício 06](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-06.py)
+
+<br><div align="right">[Subir ao Início](#home)</div><br>
+
+<center><h3>Capítulo 03</h3></center>
+
+-----
+
+[Exercício 01](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-01.py)
+
+[Exercício 02](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-02.py)
+
+[Exercício 03](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-03.py)
+
+[Exercício 04](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-04.py)
+
+[Exercício 05](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-05.py)
+
+[Exercício 06](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-06.py)
+
+[Exercício 07](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-07.py)
+
+[Exercício 08](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-08.py)
+
+[Exercício 09](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-09.py)
+
+[Exercício 10](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-10.py)
+
+[Exercício 11](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-11.py)
+
+[Exercício 12](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-12.py)
+
+[Exercício 13](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-13.py)
+
+[Exercício 14](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-14.py)
+
+[Exercício 15](https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%203/exercicio-03-15.py)
 
 
 <br><div align="right">[Subir ao Início](#home)</div><br>
-<br><br>
+
+-----
 
 Brasil, 2022.
 
