@@ -5,6 +5,7 @@
 <p align="center">
     <a href="#quem-sou-eu"> Quem Sou Eu </a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#meu-objetivo"> Meu Objetivo </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#ferramentas-utilizadas"> Ferramentas Utilizadas </a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#meu-pequeno-portfolio"> Meu Pequeno Portfólio </a>
 </p>
 </div>
@@ -22,6 +23,16 @@
 ## MEU OBJETIVO
 
 * <p align='justify'>Meu objetivo principal, no momento, é aprender o máximo que puder dessa nova linguagem de programação Python e formar conhecimento suficiente para ser selecionado a trabalhar em uma grande empresa como a Stone.</p>
+<br><div align="right">[Subir ao Início](#home)</div><br>
+
+## FERRAMENTAS UTILIZADAS
+
+* Python Versão 3.10
+
+* Visual Studio Code Versão 1.64.2
+
+* Git versão 2.35.1.windows.2
+
 <br><div align="right">[Subir ao Início](#home)</div><br>
 
 ## MEU PEQUENO PORTFOLIO
