@@ -29,7 +29,7 @@
 * Segue, links dos exercícios resolvidos durante bootcamp:
 
 <p>
-[Capítulo 02 - Exercício 01]("/exercicios3/Capitulo%202/exercicio-02-01.py")
+[Capítulo 02 - Exercício 01]("https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-01.py")
 <br>
 [Capítulo 02 - Exercício 02]("https://github.com/SelmarFidalgo/SelmarFidalgo/blob/main/exercicios3/Capitulo%202/exercicio-02-02.py")
 <br>
